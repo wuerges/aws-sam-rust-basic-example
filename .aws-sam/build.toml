@@ -9,7 +9,7 @@ architecture = "x86_64"
 packagetype = "Zip"
 functions = ["HelloWorldFunction"]
 
-[function_build_definitions.57bbc3e6-527c-4ebc-9a76-f78cc73b5443]
+[function_build_definitions.f3525382-375c-42a8-a171-43abb6a93176]
 codeuri = "/home/ew/projects/sam-python-test/sam-app/hello_world_rust"
 runtime = "provided"
 source_md5 = ""
@@ -17,7 +17,7 @@ architecture = "x86_64"
 packagetype = "Zip"
 functions = ["HelloRustFunction"]
 
-[function_build_definitions.57bbc3e6-527c-4ebc-9a76-f78cc73b5443.metadata]
+[function_build_definitions.f3525382-375c-42a8-a171-43abb6a93176.metadata]
 BuildMethod = "makefile"
 
 [layer_build_definitions]
