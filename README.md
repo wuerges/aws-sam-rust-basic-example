@@ -52,3 +52,8 @@ To add new rust functions:
 3. Add a new entry to the Makefile.
 4. That's it!
 
+# Prerequisites
+
+1. You must have rust working in your machine.
+2. You must have the `x86_64-unknown-linux-musl` target installed.
+3. You must have `sam` configured in your machine with a profile with the proper permissions.
